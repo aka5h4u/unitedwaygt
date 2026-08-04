@@ -187,7 +187,7 @@ footer{
 
 <nav>
 
-<div class="logo">Community Impact</div>
+<div class="logo">Unitedway Greater Toronto</div>
 
 <ul>
 <li><a href="#">Home</a></li>
