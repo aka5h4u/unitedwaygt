@@ -524,6 +524,82 @@ Get Involved
 </section>
 
 
+<!-- 
+OPTIONAL IFRAME SECTION
+
+Note:
+Many websites block iframe embedding using security headers.
+If unitedwaygt.org allows embedding, this will display the page.
+Otherwise remove this section.
+-->
+
+
+<section class="iframe-section">
+
+
+<h2 style="text-align:center;margin-bottom:30px;font-size:38px;">
+
+Explore Our Work
+
+</h2>
+
+
+<iframe
+
+src="https://www.unitedwaygt.org/our-work/"
+
+title="United Way Greater Toronto Our Work">
+
+</iframe>
+
+
+</section>
+
+
+
+<!-- Salesforce Embedded Messaging -->
+
+<script type='text/javascript'>
+
+	function initEmbeddedMessaging() {
+
+		try {
+
+			embeddedservice_bootstrap.settings.language = 'en_US';
+
+			embeddedservice_bootstrap.init(
+
+				'00DgL00000OQ3nd',
+
+				'Github_Messaging_Setting',
+
+				'https://saastrion-dev-ed.develop.my.site.com/ESWGithubMessagingSetti1776887653761',
+
+				{
+					scrt2URL: 'https://saastrion-dev-ed.develop.my.salesforce-scrt.com'
+				}
+
+			);
+
+		} catch (err) {
+
+			console.error(
+				'Error loading Embedded Messaging: ',
+				err
+			);
+
+		}
+
+	};
+
+</script>
+
+
+<script 
+	type='text/javascript' 
+	src='https://saastrion-dev-ed.develop.my.site.com/ESWGithubMessagingSetti1776887653761/assets/js/bootstrap.min.js' 
+	onload='initEmbeddedMessaging()'>
+</script>
 
 
 
