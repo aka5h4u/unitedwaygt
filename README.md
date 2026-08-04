@@ -3,7 +3,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Community Impact</title>
+<title>Unitedway Greater Toronto</title>
 
 <style>
 *{
@@ -204,11 +204,18 @@ footer{
 
 <div class="hero-content">
 
-<h1>Building Stronger Communities Together</h1>
+<h1>Building a GTA for all</h1>
 
 <p>
-Working alongside local organizations and volunteers to create opportunities,
-support families, and strengthen communities through meaningful partnerships.
+It takes unwavering determination and hard work to ensure the issues facing our community today, don’t define our future. But we aren’t backing down. We’re digging in – to do whatever we can, however we can, to build a GTA that is everything it can be for everyone who calls it home.</p></br>
+Backed by over 70 years working in and with community, we’ve been fighting local poverty and its interconnected challenges, bringing <a href="https://www.unitedwaygt.org/issues/20-years-of-neighbourhood-work/"><strong>decades of experience investing, empowering and strengthening neighbourhoods</strong></a> across Peel, Toronto and York Region.
+
+</p>
+
+<h1>Any way we can</h1>
+
+<p>
+Fuelled by the collective power of community, and together with our network of social service agencies, we are strengthening the GTA’s social service net.  From convening, <a href="https://www.unitedwaygt.org/the-work/investments/"><strong>community investments and grants</strong></a>, groundbreaking research, public policy and mobilization, we’re putting all the pieces together to meet the growing and ever-evolving needs of our region.
 </p>
 
 <a href="#" class="btn">Learn More</a>
